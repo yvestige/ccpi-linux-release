@@ -1,0 +1,14 @@
+{
+    "keys": [
+        "isLVPCentralized",
+        "isPDPCentralizedHorizontal",
+        "isPDPCentralizedVertical",
+        "previousCode"
+    ],
+    "values": [
+        "False",
+        "False",
+        "False",
+        "\n// variable\n// declarations\nint a = 10;\nint *p1 = &a;\nint **q1 = &p1;\na = 100;\n*p1 = 12345;\n"
+    ]
+}
