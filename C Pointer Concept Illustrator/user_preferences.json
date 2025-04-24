@@ -9,6 +9,6 @@
         "False",
         "True",
         "False",
-        "int a = 5;\nint b = 10;\nint c;\nint *p;\nint *q;\nint **r;\nint **s;\nint ***t;\n// int x = null;\nc = 15;\np = &a;\nq = &b;\nr = &p;\ns = &q;\nt = &r;\n*p = 20;\n*q = 25;\n**r = 30;\n**s = 35;\n***t = 40;\np = &c;\ns = r;\nt = &s;\n"
+        ""
     ]
 }
