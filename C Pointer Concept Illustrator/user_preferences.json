@@ -3,11 +3,13 @@
         "isLVPCentralized",
         "isPDPCentralizedHorizontal",
         "isPDPCentralizedVertical",
+        "isDNSTA",
         "previousCode"
     ],
     "values": [
         "False",
-        "True",
+        "False",
+        "False",
         "False",
         ""
     ]
