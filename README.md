@@ -1,6 +1,6 @@
 # C Pointer Concept Illustrator (CPCI)
 
-![image](https://github.com/yvestige/cpci-linux-release/tree/main/User%20Manual/assets/cdfa6a48-56d3-4dba-8628-2b474f82fe69.png)
+![image](https://github.com/yvestige/cpci-linux-release/tree/main/User%20Manual/assets/cdfa6a48-56d3-4dba-8628-2b474f82fe69)
 
 This is my Computer Science Special Problem (SP) application for the academic year 2023-2024. The project is a program designed to visualize C pointers, which features animations and interactive elements. It provides a dynamic representation of proper pointer usage, with checks to determine whether a pointer is appropriately employed or not. This tool is intended to be a valuable resource for students learning about pointers in C.
 
