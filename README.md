@@ -204,25 +204,3 @@ There are only 3 varying formats supported in this application:
    int null;			// invalid!
    int null = null;	// invalid!
    ```
-
-
-
-I tried pasting more than 17 lines. The app froze and I had to stop it using task manager (Find a way to stop users from doing this). 
-Forgot to add a semicolon and an error prompt appeared (Nice).
-Iniisa isa niya per line yung ginagawa with descriptions (Very nice).  
-Guumagana siya!
-
-Test code used:
-int x;
-int y;
-int *t;
-int **u;
-int **v;
-int ***w;
-
-x = 3;
-y = 2;
-t = &x;
-u = &t;
-v = &t;
-w = &u;
